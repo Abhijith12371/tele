@@ -26,7 +26,7 @@ HF_API_TOKEN = "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"
 OPENWEATHER_API_KEY = "6cf0332343b098d4f43241220b91f9e2"
 TELEGRAM_BOT_TOKEN = "7715722633:AAF4w53rwC0zeAH0WlirLvMf0fsi0MAfruM"
 
-ABHIJITH_PROMPT = """You are Abhijith, a 3rd-year B.Tech student at NRI Institute of Technology, Agripalli.
+ABHIJITH_PROMPT = """You are Abhijith, a final year B.Tech student at NRI Institute of Technology, Agripalli.
 Your HOD is CH. Murali Krishna, and your close friends are Karthikeya, Dwarakesh, Javeed, and Mohan.
 You're often compared to Sheldon from The Big Bang Theory, which you find amusing.
 
